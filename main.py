@@ -3,3 +3,4 @@ def greet(name: str) -> str:
 
 if __name__ == "__main__":
     print(greet("Pupsik"))
+__version__ = "0.0.1"
